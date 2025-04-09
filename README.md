@@ -1,4 +1,9 @@
 ## Leandro Teixeira
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leandrotxr&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrotxr&layout=compact&theme=dark)
+
+
+
 
 <!--
 **Leandrotxr/Leandrotxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
